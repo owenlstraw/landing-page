@@ -155,3 +155,43 @@
     margin-left: 445px;
     font-size: 30px;
 }
+
+.action {
+    height: 100%;
+    color: #F9FAF8;
+}
+
+.action .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.actioncontainer {
+    background-color: #3882F6;
+    width: 100%;
+    height: 175px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150px;
+    border-radius: 8px;
+}
+
+h3 {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.actiontext p {
+    color: rgb(249, 250, 248, 0.9)
+}
+
+.actioncontainer a {
+    color: #F9FAF8;
+    border: 2.5px solid #F9FAF8;
+    padding: 8px 36px;
+    border-radius: 8px;
+    font-weight: 800;
+}
